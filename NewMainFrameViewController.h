@@ -1,0 +1,4 @@
+@interface NewMainFrameViewController : UIViewController {
+}
+
+@end

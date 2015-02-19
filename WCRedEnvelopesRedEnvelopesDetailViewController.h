@@ -1,0 +1,5 @@
+@interface WCRedEnvelopesRedEnvelopesDetailViewController : UIViewController {
+}
+
+
+@end
